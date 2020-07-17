@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "657124194814",
+    "firebase_url": "https://fir-analytics-16c1c.firebaseio.com",
+    "project_id": "fir-analytics-16c1c",
+    "storage_bucket": "fir-analytics-16c1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657124194814:android:b5bd50d482d3df00a9e8af",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657124194814-l5rijj5le8qpgkck6m9p7kktui0ti196.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZPt6Wpji8RhGe4yT2IHz7J__yVMHL1zE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657124194814-l5rijj5le8qpgkck6m9p7kktui0ti196.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657124194814-uoqn3o7ctcuq4llugh84sjchk5plhlfc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "jp.codecomplete.firebaseanalytics"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
