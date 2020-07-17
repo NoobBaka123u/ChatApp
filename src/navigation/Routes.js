@@ -26,7 +26,6 @@ export default function Routes() {
   if (loading) {
     return <Loading />;
   }
-  console.log('user', user);
   if (user) {
     (async function() {
       console.log('analytics login');
